@@ -1,0 +1,25 @@
+library IEEE;
+use IEEE.std_logic_misc.all;
+use IEEE.std_logic_1164.all;
+
+entity ledcontroller is
+
+port (
+   switches : in std_logic_vector (17 downto 0);
+   segments : out std_logic_vector (55 downto 0));
+end entity;
+
+architecture basic of ledcontroller is
+
+begin
+
+placeholder: for i in 55 downto 18 generate
+  segments(i) <= '1';
+end generate placeholder;
+
+dummy : for i in 17 downto 0 generate
+ segments(i) <= switches (i);
+end generate dummy;
+
+
+end basic;

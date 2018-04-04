@@ -1,0 +1,811 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/simulation/modelsim
+Eadder_cs
+Z1 w1476634956
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd
+Z5 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd
+l0
+L7
+VnhFNAo6XzMUEK^:=]JeBm0
+!s100 D5R^];Kc6V<ZanP``:@]f1
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1510276786
+!i10b 1
+Z8 !s108 1510276786.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd|
+Z10 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+DEx4 work 8 adder_cs 0 22 nhFNAo6XzMUEK^:=]JeBm0
+l36
+L17
+V][>lW3j5V7lV4iPnX=a_53
+!s100 oI2PMX3nf@36<ZCJ5_^o02
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eadder_rc
+Z13 w1476634951
+R2
+R3
+R0
+Z14 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd
+Z15 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd
+l0
+L7
+VWNGRB[^^Ra9zI4c]_D69S2
+!s100 `[?0I`Z5kk77hJn]LDSPd2
+R6
+31
+Z16 !s110 1510276785
+!i10b 1
+Z17 !s108 1510276785.000000
+Z18 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd|
+Z19 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 8 adder_rc 0 22 WNGRB[^^Ra9zI4c]_D69S2
+l20
+L17
+V62EPkWC82TI5fC<lnnEd:2
+!s100 XV`2F_K2P6`GgJJdLQ5L@1
+R6
+31
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Ealu
+Z20 w1476587828
+R2
+R3
+R0
+Z21 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd
+Z22 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd
+l0
+L16
+VHNi9DV^fjFV7RSN]a7o493
+!s100 ^U4c5EC@R:PG6NEjzj`4N0
+R6
+31
+Z23 !s110 1510276783
+!i10b 1
+Z24 !s108 1510276783.000000
+Z25 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd|
+Z26 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 3 alu 0 22 HNi9DV^fjFV7RSN]a7o493
+l44
+L24
+Vk4RA;ELgEnee]l>hR3_5Z0
+!s100 jQB74X]zgkKGF8;9`Ogn[3
+R6
+31
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Econtrol
+Z27 w1510273609
+R2
+R3
+R0
+Z28 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd
+Z29 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd
+l0
+L7
+VoUGWf1QzKPYdK0GZSkE011
+!s100 FQ^XY6k;e^?dncC0>nQOA3
+R6
+31
+R23
+!i10b 1
+R24
+Z30 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd|
+Z31 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 7 control 0 22 oUGWf1QzKPYdK0GZSkE011
+l25
+L24
+VVgRd^fei`S7U[EHL]o2>81
+!s100 <;VgP@fh^Me0@jhUVa6Z?1
+R6
+31
+R23
+!i10b 1
+R24
+R30
+R31
+!i113 1
+R11
+R12
+Edecoder5to32
+Z32 w1476634813
+R2
+R3
+R0
+Z33 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd
+Z34 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd
+l0
+L7
+VQ[oE1c^Wi?AFa^JS@kQVI3
+!s100 m>O[d_c82Y4ZJl6X@@HT20
+R6
+31
+R23
+!i10b 1
+R24
+Z35 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd|
+Z36 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 12 decoder5to32 0 22 Q[oE1c^Wi?AFa^JS@kQVI3
+l13
+L12
+V;AOaS_4?X^4oWP=zHSPgE3
+!s100 `Q?V246oS6SS4>SSifkO;1
+R6
+31
+R23
+!i10b 1
+R24
+R35
+R36
+!i113 1
+R11
+R12
+Edmem
+Z37 w1510275988
+Z38 DPx9 altera_mf 20 altera_mf_components 0 22 :YRc5<ojH^WgP]^Vezi9c1
+R2
+R3
+R0
+Z39 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd
+Z40 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd
+l0
+L43
+VE0TTWRYX4K^9o;<YZAC>m3
+!s100 d?O>jgfR0UGD6_nDdA<Tb1
+R6
+31
+Z41 !s110 1510276784
+!i10b 1
+Z42 !s108 1510276784.000000
+Z43 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd|
+Z44 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd|
+!i113 1
+R11
+R12
+Asyn
+R38
+R2
+R3
+DEx4 work 4 dmem 0 22 E0TTWRYX4K^9o;<YZAC>m3
+l59
+L55
+VG@S<n^6BS[lF^<<iYV;ZA2
+!s100 K]X<TRl^bjdM_M@M]C6GX2
+R6
+31
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R11
+R12
+Eimem
+Z45 w1510276762
+R38
+R2
+R3
+R0
+Z46 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd
+Z47 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd
+l0
+L43
+V63LT=75^mdjI`Fl8kFRj;3
+!s100 g:0T`KDSV=iIZ96SG2<BG1
+R6
+31
+R41
+!i10b 1
+R42
+Z48 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd|
+Z49 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd|
+!i113 1
+R11
+R12
+Asyn
+R38
+R2
+R3
+DEx4 work 4 imem 0 22 63LT=75^mdjI`Fl8kFRj;3
+l58
+L54
+ViDV_Wd<d41;:3d]8kfZV10
+!s100 jDH95EFhGFKVPI0E?FeAn0
+R6
+31
+R41
+!i10b 1
+R42
+R48
+R49
+!i113 1
+R11
+R12
+Elcd
+Z50 w1476634825
+Z51 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z52 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R0
+Z53 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd
+Z54 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd
+l0
+L9
+VYo:<6b0nJ=5=lZll4aJ;32
+!s100 XdQWV2gLH0Xc;DhjR27bT0
+R6
+31
+R16
+!i10b 1
+R17
+Z55 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd|
+Z56 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd|
+!i113 1
+R11
+R12
+Aa
+R51
+R52
+R2
+R3
+DEx4 work 3 lcd 0 22 Yo:<6b0nJ=5=lZll4aJ;32
+l33
+L19
+V?l[Oh?dD=63<@iNUaZZAl1
+!s100 oMjIPXdlX9F<I2SX<fg4F1
+R6
+31
+R16
+!i10b 1
+R17
+R55
+R56
+!i113 1
+R11
+R12
+Emux
+Z57 w1476634969
+R2
+R3
+R0
+Z58 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd
+Z59 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd
+l0
+L8
+Vd@N^V[bRMcoD[ijJfVjjS3
+!s100 KIIXM7b7OhDXzb@OWFznR1
+R6
+31
+R7
+!i10b 1
+R8
+Z60 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd|
+Z61 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 3 mux 0 22 d@N^V[bRMcoD[ijJfVjjS3
+l16
+L15
+VLPC<84B7Wjl5[_n^FAT@;1
+!s100 XYj]]]PCo=?@D]z3CDUOB3
+R6
+31
+R7
+!i10b 1
+R8
+R60
+R61
+!i113 1
+R11
+R12
+Emux4to1
+R57
+R2
+R3
+R0
+R58
+R59
+l0
+L26
+V_LB0j1T7X?00ccSL3azWK3
+!s100 XDibd<e=5jc8TKKX^M;XZ1
+R6
+31
+R7
+!i10b 1
+R8
+R60
+R61
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 7 mux4to1 0 22 _LB0j1T7X?00ccSL3azWK3
+l34
+L33
+VQ^6IAZDUd9^gE`:^[?^F;2
+!s100 N;gzI[DX5A8UGO]44Z5l>0
+R6
+31
+R7
+!i10b 1
+R8
+R60
+R61
+!i113 1
+R11
+R12
+Epll
+Z62 w1476580985
+R2
+R3
+R0
+Z63 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd
+Z64 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd
+l0
+L43
+VgW:;d_[FbV`?`II2Ceei<2
+!s100 A<H4AY;Y0hFFY7nE=<T@T1
+R6
+31
+R16
+!i10b 1
+R17
+Z65 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd|
+Z66 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd|
+!i113 1
+R11
+R12
+Asyn
+R2
+R3
+DEx4 work 3 pll 0 22 gW:;d_[FbV`?`II2Ceei<2
+l126
+L52
+Vb:1NLJV3cU>JT1Wm^1GjM3
+!s100 ]0M?aca><U]8cgJ;P0SaG1
+R6
+31
+R16
+!i10b 1
+R17
+R65
+R66
+!i113 1
+R11
+R12
+vpll_altpll
+R23
+!i10b 1
+!s100 U?aB6bz8NFgQ<dSVHYP@^1
+I1c3WOaC`06aUX7El3dVDQ1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1510182855
+8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v
+FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v
+L0 30
+OV;L;10.5b;63
+r1
+!s85 0
+31
+R24
+!s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db}
+tCvgOpt 0
+Eprocessor
+Z67 w1510264489
+R2
+R3
+R0
+Z68 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd
+Z69 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd
+l0
+L7
+V[K`9RES@kLzRZ>@VI57lX1
+!s100 `dcHD1`J4[@7jaRPaok4Y0
+R6
+31
+R16
+!i10b 1
+R17
+Z70 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd|
+Z71 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 9 processor 0 22 [K`9RES@kLzRZ>@VI57lX1
+l122
+L14
+VdJ5B]4^8hf1fR7gNgAY350
+!s100 E[a?nKT5[INSHL7_]VlE@3
+R6
+31
+R16
+!i10b 1
+R17
+R70
+R71
+!i113 1
+R11
+R12
+Eps2
+Z72 w1476634853
+R51
+R52
+R2
+R3
+R0
+Z73 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd
+Z74 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd
+l0
+L9
+VFj^ne_X@k_HaIW5IAYj0a0
+!s100 Z3jPgg`YoXI=d<QR8;mD82
+R6
+31
+R16
+!i10b 1
+R17
+Z75 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd|
+Z76 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd|
+!i113 1
+R11
+R12
+Aa
+R51
+R52
+R2
+R3
+DEx4 work 3 ps2 0 22 Fj^ne_X@k_HaIW5IAYj0a0
+l81
+L17
+VS_5aj[h[0OO@cSOO@EA5P2
+!s100 =bh6OI`ODmGmEC;Rc17Kh3
+R6
+31
+R16
+!i10b 1
+R17
+R75
+R76
+!i113 1
+R11
+R12
+Ereg
+Z77 w1476635151
+Z78 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z79 DPx6 altera 11 dffeas_pack 0 22 >EJOc2K4@P4f?njWHdOcd0
+Z80 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z81 DPx6 altera 28 altera_primitives_components 0 22 14j`ZKHCzSI;]V?hmAE6_1
+R2
+R3
+R0
+Z82 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd
+Z83 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd
+l0
+L9
+V4@[hg46lj]M`L3Q:07aVH0
+!s100 N;^I=OfVhZmC1?k;S=1Cb1
+R6
+31
+R7
+!i10b 1
+R8
+Z84 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd|
+Z85 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd|
+!i113 1
+R11
+R12
+Astructure
+R78
+R79
+R80
+R81
+R2
+R3
+DEx4 work 3 reg 0 22 4@[hg46lj]M`L3Q:07aVH0
+l26
+L16
+VfejB:X6N@f[cfec68E>Yl0
+!s100 zAiG2H5H_`GBh@YV54G]S0
+R6
+31
+R7
+!i10b 1
+R8
+R84
+R85
+!i113 1
+R11
+R12
+Ereg0_2port
+Z86 w1476635028
+R78
+R79
+R80
+R81
+R2
+R3
+R0
+Z87 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd
+Z88 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd
+l0
+L9
+VcPaLCHnP:@KM3^h19`Jc03
+!s100 WA12HBS2dW2WW:`@gKZZ<1
+R6
+31
+R7
+!i10b 1
+R8
+Z89 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd|
+Z90 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd|
+!i113 1
+R11
+R12
+Astructure
+R78
+R79
+R80
+R81
+R2
+R3
+DEx4 work 10 reg0_2port 0 22 cPaLCHnP:@KM3^h19`Jc03
+l22
+L15
+VHJQ_PT^I_:nnldYSZO[J42
+!s100 TJ_PhXze107[5hKgYeckZ0
+R6
+31
+R7
+!i10b 1
+R8
+R89
+R90
+!i113 1
+R11
+R12
+Ereg_2port
+Z91 w1476635013
+R78
+R79
+R80
+R81
+R2
+R3
+R0
+Z92 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd
+Z93 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd
+l0
+L9
+VKUAl7nGg?7m`;3N;N1:=n1
+!s100 =mc74:dzzhHKRPJW32SGF3
+R6
+31
+R7
+!i10b 1
+R8
+Z94 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd|
+Z95 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd|
+!i113 1
+R11
+R12
+Astructure
+R78
+R79
+R80
+R81
+R2
+R3
+DEx4 work 9 reg_2port 0 22 KUAl7nGg?7m`;3N;N1:=n1
+l30
+L16
+Vi>9?GRfLLVYT1=Sdz_^oJ0
+!s100 3GUN^Jk03Znhz8D^f=@hE2
+R6
+31
+R7
+!i10b 1
+R8
+R94
+R95
+!i113 1
+R11
+R12
+Eregfile
+Z96 w1476635053
+R2
+R3
+R0
+Z97 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd
+Z98 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd
+l0
+L4
+V>jKLoaBkNT[<YOQU0N?DW3
+!s100 Sl^Z3R<li093NZb7=L1e00
+R6
+31
+R16
+!i10b 1
+R17
+Z99 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd|
+Z100 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 7 regfile 0 22 >jKLoaBkNT[<YOQU0N?DW3
+l28
+L11
+VF;a<@9^cF]HT6Fz1=84bH2
+!s100 Ac`fOI^O9YjZhm@MH9lW62
+R6
+31
+R16
+!i10b 1
+R17
+R99
+R100
+!i113 1
+R11
+R12
+Eshifter
+Z101 w1476634786
+R2
+R3
+R0
+Z102 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd
+Z103 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd
+l0
+L8
+VAgzXYOO7j4<al7>?M4]T^0
+!s100 CYAOzm?6<EPhjH@R`N11_0
+R6
+31
+R16
+!i10b 1
+R17
+Z104 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd|
+Z105 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd|
+!i113 1
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 7 shifter 0 22 AgzXYOO7j4<al7>?M4]T^0
+l26
+L15
+VZQ<BkXH1zO==Y5bc4Ak`@3
+!s100 DcM]Y8a_HYbaUC=fDd@1O1
+R6
+31
+R16
+!i10b 1
+R17
+R104
+R105
+!i113 1
+R11
+R12
+Eskeleton
+Z106 w1476634937
+R51
+R2
+R3
+R0
+Z107 8E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd
+Z108 FE:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd
+l0
+L9
+VjA:I=X_bKOz>n=^CF@j_i3
+!s100 Fn4e@FQ]WN`SdLP[k<TM71
+R6
+31
+R16
+!i10b 1
+R17
+Z109 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd|
+Z110 !s107 E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd|
+!i113 1
+R11
+R12
+Astructure
+R51
+R2
+R3
+DEx4 work 8 skeleton 0 22 jA:I=X_bKOz>n=^CF@j_i3
+l42
+L15
+VZ@gYM5BchU=11A9cVAl[W3
+!s100 nZd^=8ZLi7@dJ[17OAHAA3
+R6
+31
+R16
+!i10b 1
+R17
+R109
+R110
+!i113 1
+R11
+R12

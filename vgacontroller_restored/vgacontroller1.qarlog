@@ -1,0 +1,35 @@
+Quartus Prime Archive log --	E:/ECE 550d/vgacontroller_restored/vgacontroller1.qarlog
+
+Archive:	E:/ECE 550d/vgacontroller_restored/vgacontroller1.qar
+Date:		Thu Oct 05 22:38:03 2017
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+E:/ECE 550d/vgacontroller_restored/assignment_defaults.qdf
+E:/ECE 550d/vgacontroller_restored/db/vgacontroller.sim.cvwf
+E:/ECE 550d/vgacontroller_restored/myvga.vhdl
+E:/ECE 550d/vgacontroller_restored/pll.bsf
+E:/ECE 550d/vgacontroller_restored/pll.cmp
+E:/ECE 550d/vgacontroller_restored/pll.ppf
+E:/ECE 550d/vgacontroller_restored/pll.qip
+E:/ECE 550d/vgacontroller_restored/pll.vhd
+E:/ECE 550d/vgacontroller_restored/test.vwf
+E:/ECE 550d/vgacontroller_restored/vgacontroller.qpf
+E:/ECE 550d/vgacontroller_restored/vgacontroller.qsf
+E:/ECE 550d/vgacontroller_restored/vgacontroller.vhd
+E:/ECE 550d/vgacontroller_restored/vgacontroller_assignment_defaults.qdf
+E:/ECE 550d/vgacontroller_restored/vmem.bsf
+E:/ECE 550d/vgacontroller_restored/vmem.cmp
+E:/ECE 550d/vgacontroller_restored/vmem.qip
+E:/ECE 550d/vgacontroller_restored/vmem.vhd
+E:/ECE 550d/vgacontroller_restored/vmem_new.hex
+	======= Total: 18 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Apr 04 08:58:32 2018
+Source archive file:	E:/ECE 550d/vgacontroller_restored/vgacontroller1.qar
+Archive was extracted into	E:/ECE 550d/vgacontroller_restored/vgacontroller1_restored/
+		 - successfully.

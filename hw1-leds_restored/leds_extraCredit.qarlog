@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	E:/ECE 550d/hw1-leds_restored/leds_extraCredit.qarlog
+
+Archive:	E:/ECE 550d/hw1-leds_restored/leds_extraCredit.qar
+Date:		Sat Sep 23 08:42:19 2017
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+E:/ECE 550d/hw1-leds_restored/assignment_defaults.qdf
+E:/ECE 550d/hw1-leds_restored/ledcontroller.vhdl
+E:/ECE 550d/hw1-leds_restored/leds.qpf
+E:/ECE 550d/hw1-leds_restored/leds.qsf
+E:/ECE 550d/hw1-leds_restored/leds_assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Sep 23 08:42:59 2017
+Source archive file:	E:/ECE 550d/hw1-leds_restored/leds_extraCredit.qar
+Archive was extracted into	E:/ECE 550d/hw1-leds_restored/leds_extraCredit_restored/
+		 - successfully.

@@ -1,0 +1,311 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+# do skeleton_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+E:/ECE\ 550d/cpu550-2016fa-skeleton-rev1_restored/db {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:43 on Nov 10,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db" E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/db/pll_altpll.v 
+# -- Compiling module pll_altpll
+# 
+# Top level modules:
+# 	pll_altpll
+# End time: 09:19:43 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:43 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity control
+# -- Compiling architecture Behavior of control
+# End time: 09:19:43 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:43 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity alu
+# -- Compiling architecture Structure of alu
+# End time: 09:19:43 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:43 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity decoder5to32
+# -- Compiling architecture Structure of decoder5to32
+# End time: 09:19:44 on Nov 10,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:44 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package altera_mf_components
+# -- Compiling entity dmem
+# -- Compiling architecture SYN of dmem
+# End time: 09:19:44 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:44 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package altera_mf_components
+# -- Compiling entity imem
+# -- Compiling architecture SYN of imem
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity lcd
+# -- Compiling architecture a of lcd
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity processor
+# -- Compiling architecture Structure of processor
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ps2
+# -- Compiling architecture a of ps2
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity skeleton
+# -- Compiling architecture Structure of skeleton
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity regfile
+# -- Compiling architecture Structure of regfile
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shifter
+# -- Compiling architecture Structure of shifter
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pll
+# -- Compiling architecture SYN of pll
+# End time: 09:19:45 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:45 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity adder_rc
+# -- Compiling architecture Structure of adder_rc
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:46 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity adder_cs
+# -- Compiling architecture Structure of adder_cs
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:46 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux
+# -- Compiling architecture Structure of mux
+# -- Compiling entity mux4to1
+# -- Compiling architecture Structure of mux4to1
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:46 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Compiling entity reg
+# -- Compiling architecture Structure of reg
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:46 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Compiling entity reg_2port
+# -- Compiling architecture Structure of reg_2port
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:19:46 on Nov 10,2017
+# vcom -reportprogress 300 -93 -work work E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Compiling entity reg0_2port
+# -- Compiling architecture Structure of reg0_2port
+# End time: 09:19:46 on Nov 10,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.processor
+# vsim work.processor 
+# Start time: 09:23:05 on Nov 10,2017
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.processor(structure)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading altera.dffeas_pack
+# Loading altera.altera_primitives_components
+# Loading work.reg(structure)
+# Loading altera.dffe(behavior)
+# Loading altera.prim_gdff(behavior)
+# Loading work.mux(structure)
+# Loading altera_mf.altera_mf_components
+# Loading work.imem(syn)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)
+# Loading work.control(behavior)
+# Loading work.regfile(structure)
+# Loading work.decoder5to32(structure)
+# Loading work.reg0_2port(structure)
+# Loading altera.tri(behavior)
+# Loading work.reg_2port(structure)
+# Loading work.alu(structure)
+# Loading work.adder_cs(structure)
+# Loading work.adder_rc(structure)
+# Loading work.shifter(structure)
+# Loading work.dmem(syn)
+# Loading work.mux4to1(structure)
+# ** Warning: Design size of 10301 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+add wave -position insertpoint sim:/processor/*
+force -freeze sim:/processor/clock 1 0, 0 {50 ps} -r 100
+force -freeze sim:/processor/reset 1 0
+run
+force -freeze sim:/processor/reset 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 09:31:14 on Nov 10,2017, Elapsed time: 0:08:09
+# Errors: 0, Warnings: 1

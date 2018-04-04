@@ -1,0 +1,417 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/ECE 550d/vgacontroller_restored/simulation/modelsim
+Efulladder
+Z1 w1507167812
+Z2 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z3 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8E:/ECE 550d/vgacontroller_restored/myvga.vhdl
+Z7 FE:/ECE 550d/vgacontroller_restored/myvga.vhdl
+l0
+L5
+V>0Qlozk@]GElDZa?3VGO^3
+!s100 ;RaYX0mnag>P69S9U4=cH3
+Z8 OV;C;10.5b;63
+31
+Z9 !s110 1507168745
+!i10b 1
+Z10 !s108 1507168745.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/vgacontroller_restored/myvga.vhdl|
+Z12 !s107 E:/ECE 550d/vgacontroller_restored/myvga.vhdl|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aadder_struc
+R2
+R3
+R4
+R5
+DEx4 work 9 fulladder 0 22 >0Qlozk@]GElDZa?3VGO^3
+l13
+L11
+V;S^NBLKTc;hO]@Z9=k5I>0
+!s100 _E8A[P2FAFX:PdU3]eoeQ1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emultiply640
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L125
+VzJnczE;A;NAYz1CJa_Im93
+!s100 AYj@3@BK2a6S[n=[D4l;o1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Amul_struc
+R2
+R3
+R4
+R5
+DEx4 work 11 multiply640 0 22 zJnczE;A;NAYz1CJa_Im93
+l143
+L131
+ViW66V5HAhEaiacHI0X2F]3
+!s100 ]lLcQT1iJLW5fMLHPakWC0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emux2to1
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L24
+V3=f=7AE:D@>Nif;BTlXjl2
+!s100 R0^`d=i1`g`776PfH7V5O0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Amux
+R2
+R3
+R4
+R5
+DEx4 work 7 mux2to1 0 22 3=f=7AE:D@>Nif;BTlXjl2
+l34
+L32
+VHOkUOX^JOG;E_J4C<Ymng2
+!s100 4?>61=]i=j?2fQ@;4D;jf2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emyvga
+R1
+Z15 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z16 DPx6 altera 11 dffeas_pack 0 22 >EJOc2K4@P4f?njWHdOcd0
+Z17 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z18 DPx6 altera 28 altera_primitives_components 0 22 14j`ZKHCzSI;]V?hmAE6_1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L161
+V<M=GL=81XgUbfRNL;Q=nL2
+!s100 E^39DJ71e;dHjFoGkOYK`2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abasic
+R15
+R16
+R17
+R18
+R2
+R3
+R4
+R5
+DEx4 work 5 myvga 0 22 <M=GL=81XgUbfRNL;Q=nL2
+l234
+L174
+V[6UY;P^1oJlA92fVcZ[8T0
+!s100 K=h[1[oO8SU6L@;N]Flm@0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Epll
+Z19 w1442599082
+R4
+R5
+R0
+Z20 8E:/ECE 550d/vgacontroller_restored/pll.vhd
+Z21 FE:/ECE 550d/vgacontroller_restored/pll.vhd
+l0
+L42
+V^E7`hH8VR_^2djWPO3Hfd1
+!s100 NVkD@^BmL7NHl5M>@]n8=3
+R8
+31
+R9
+!i10b 1
+R10
+Z22 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/vgacontroller_restored/pll.vhd|
+Z23 !s107 E:/ECE 550d/vgacontroller_restored/pll.vhd|
+!i113 1
+R13
+R14
+Asyn
+R4
+R5
+DEx4 work 3 pll 0 22 ^E7`hH8VR_^2djWPO3Hfd1
+l131
+L52
+VNezgU8YhHZMjnkfgkVW:>1
+!s100 Kl6D?A^9^k]nlez;G2OmM1
+R8
+31
+R9
+!i10b 1
+R10
+R22
+R23
+!i113 1
+R13
+R14
+vpll_altpll
+R9
+!i10b 1
+!s100 _ml9_n6H[:bWZ@?:aPJ0Z3
+Ie]bhDB1bQ>oHg]Q5`a[R:0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1507075807
+8E:/ECE 550d/vgacontroller_restored/db/pll_altpll.v
+FE:/ECE 550d/vgacontroller_restored/db/pll_altpll.v
+L0 30
+OV;L;10.5b;63
+r1
+!s85 0
+31
+R10
+!s107 E:/ECE 550d/vgacontroller_restored/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/ECE 550d/vgacontroller_restored/db|E:/ECE 550d/vgacontroller_restored/db/pll_altpll.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+E:/ECE 550d/vgacontroller_restored/db}
+tCvgOpt 0
+Etenbitsadder
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L47
+V>PNjn0ei^Ga@DjcNc1SAh0
+!s100 @E_lVocR^;E[AM>:D7RaK0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Atenbits_struc
+R2
+R3
+R4
+R5
+DEx4 work 12 tenbitsadder 0 22 >PNjn0ei^Ga@DjcNc1SAh0
+l65
+L55
+ViIlg?Cz@<zDaH6kdVZie:2
+!s100 D9Ki?1`OL^2G6e3e^`ASf0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etwentybitsadder
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L79
+V@k=Y3<`E8c3XS3Hm^LlLR1
+!s100 XRKXE7_d>OzGVZa1DlGS73
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Atwentybits_struc
+R2
+R3
+R4
+R5
+DEx4 work 15 twentybitsadder 0 22 @k=Y3<`E8c3XS3Hm^LlLR1
+l107
+L86
+VN^HW@XXUXHn>;cZAIfV5M2
+!s100 P:XijncDkd<L3mbW?ISA>2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Evgacontroller
+Z24 w1442603443
+R4
+R5
+R0
+Z25 8E:/ECE 550d/vgacontroller_restored/vgacontroller.vhd
+Z26 FE:/ECE 550d/vgacontroller_restored/vgacontroller.vhd
+l0
+L7
+VZfK30SW@cA3S>Xz2:Z^el0
+!s100 L[VE@DMa[>eFmQ:0LLJND3
+R8
+31
+R9
+!i10b 1
+R10
+Z27 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/vgacontroller_restored/vgacontroller.vhd|
+Z28 !s107 E:/ECE 550d/vgacontroller_restored/vgacontroller.vhd|
+!i113 1
+R13
+R14
+Abasic
+R4
+R5
+DEx4 work 13 vgacontroller 0 22 ZfK30SW@cA3S>Xz2:Z^el0
+l43
+L21
+VFREUkAIlNg@SA2fnhM3b10
+!s100 8N7LGiG7RRJWkdndYIP=f0
+R8
+31
+R9
+!i10b 1
+R10
+R27
+R28
+!i113 1
+R13
+R14
+Evmem
+Z29 w1345244202
+Z30 DPx9 altera_mf 20 altera_mf_components 0 22 :YRc5<ojH^WgP]^Vezi9c1
+R4
+R5
+R0
+Z31 8E:/ECE 550d/vgacontroller_restored/vmem.vhd
+Z32 FE:/ECE 550d/vgacontroller_restored/vmem.vhd
+l0
+L43
+VE;59gkGH5ACllDfZ`7iiR1
+!s100 N39A8_IN<zi_8iYhHGi012
+R8
+31
+R9
+!i10b 1
+R10
+Z33 !s90 -reportprogress|300|-93|-work|work|E:/ECE 550d/vgacontroller_restored/vmem.vhd|
+Z34 !s107 E:/ECE 550d/vgacontroller_restored/vmem.vhd|
+!i113 1
+R13
+R14
+Asyn
+R30
+R4
+R5
+DEx4 work 4 vmem 0 22 E;59gkGH5ACllDfZ`7iiR1
+l57
+L53
+VK@V1R1mZ7FQ8[GYb1<27T1
+!s100 Pdb7VVEWP7fFmTlP?;?h23
+R8
+31
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14

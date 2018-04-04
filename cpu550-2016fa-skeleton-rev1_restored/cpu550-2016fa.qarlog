@@ -1,0 +1,43 @@
+Quartus Prime Archive log --	E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/cpu550-2016fa.qarlog
+
+Archive:	E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/cpu550-2016fa.qar
+Date:		Fri Nov 10 10:30:54 2017
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_cs.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/adder_rc.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/alu.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/control.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/cpu550-2016fa.qpf
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/decoder5to32.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/dmem.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/imem.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/lcd.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/mux.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.cmp
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.ppf
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.qip
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/pll.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/processor.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/ps2.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg0_2port.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/reg_2port.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/regfile.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/shifter.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.qsf
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton.vhd
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/skeleton_assignment_defaults.qdf
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/test-give_me_n-dmem.hex
+E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/test-give_me_n-imem.hex
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Apr 04 09:01:29 2018
+Source archive file:	E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/cpu550-2016fa.qar
+Archive was extracted into	E:/ECE 550d/cpu550-2016fa-skeleton-rev1_restored/cpu550-2016fa_restored/
+		 - successfully.
